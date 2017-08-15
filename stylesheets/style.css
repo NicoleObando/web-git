@@ -23,6 +23,8 @@ body {
     	background-position: 0 0;
     	border:1px solid black;
     	float:right;
+	    background-color: #e7efec;
+	box-shadow: 0 0 12px black;
 }
 
 #tbldevs{
